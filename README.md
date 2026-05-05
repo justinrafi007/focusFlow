@@ -20,7 +20,7 @@ Development: Vite
 Clone the repository:
 code
 Bash
-git clone https://github.com/your-username/focusflow.git
+git clone https://github.com/justinrafi007/focusflow.git
 Install dependencies:
 code
 Bash
