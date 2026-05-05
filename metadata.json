@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "A minimal Pomodoro study timer with app blocking simulations, session tracking, and motivational quotes to keep students focused.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["Timer", "Statistics", "Sound"]
+}
